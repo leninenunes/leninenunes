@@ -39,7 +39,7 @@
 </a>
 &nbsp;
 &nbsp;
-<a href="https://www.instagram.com/leninenunes">
+<a href="https://www.researchgate.net/profile/Lenine-Nunes">
   <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" />
 </a>
 &nbsp;
