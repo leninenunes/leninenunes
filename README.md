@@ -29,17 +29,17 @@
 
 ## 📫 Contato
 &nbsp;
-<a href="https://www.linkedin.com/in/leninenunes/">
+<a href="https://www.linkedin.com/in/leninenunes/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
 &nbsp;
-<a href="https://www.instagram.com/leninenunes">
+<a href="https://www.instagram.com/leninenunes" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
 &nbsp;
 &nbsp;
-<a href="https://www.researchgate.net/profile/Lenine-Nunes">
+<a href="https://www.researchgate.net/profile/Lenine-Nunes" target="_blank">
   <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" />
 </a>
 &nbsp;
