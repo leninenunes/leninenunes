@@ -10,8 +10,9 @@
 
 ## 🚀 Sobre mim
 
-- 🎓 **Formação**: Engenheiro de Software FullStack
-- 💻 **Atualmente**: Focado em **Backend**
+- 🎓 **Formação**: Análise e Desenvolvimento de Sistemas
+- 👨🏻‍💻 **Especialização**: Engenharia de Software
+- 💻 **Atualmente**: Engenheiro de Software FullStack
 - 📊 **Habilidades**: Java, API Rest, SQL, SpringBoot, MySQL
 - 🌍 **Idiomas**: Português (nativo), Inglês (intermediário), Espanhol (básico)
 
