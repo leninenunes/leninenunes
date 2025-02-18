@@ -22,6 +22,7 @@
 &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
 </p>
+
 ## 📂 Projetos e Trabalhos Destacados
 
 - [Data Warehouse para Gestão de Projetos em Desenvolvimento de Software: Análise de Desempenho e Execução de Atividades](https://www.researchgate.net/publication/388716234_Data_Warehouse_para_Gestao_de_Projetos_em_Desenvolvimento_de_Software_Analise_de_Desempenho_e_Execucao_de_Atividades)
