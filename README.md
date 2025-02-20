@@ -13,14 +13,16 @@
 - 🎓 **Formação**: Análise e Desenvolvimento de Sistemas
 - 👨🏻‍💻 **Especialização**: Engenharia de Software
 - 💻 **Atualmente**: Engenheiro de Software FullStack
-- 📊 **Habilidades**: Java, API Rest, SQL, SpringBoot, MySQL
+- 📊 **Habilidades**: Java, PHP, Flutter, API Rest, SQL, SpringBoot, MySQL
 - 🌍 **Idiomas**: Português (nativo), Inglês (intermediário), Espanhol (básico)
 
 ## 🛠️ Tecnologias e Ferramentas
 <p>
 &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-&nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
+&nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+&nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"" />
+&nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 </p>
 
 ## 📂 Projetos e Trabalhos Destacados
